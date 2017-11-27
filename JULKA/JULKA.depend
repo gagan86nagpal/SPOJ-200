@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1511752898 source:d:\spoj 200\julka\main.cpp
+1511754248 source:d:\spoj 200\julka\main.cpp
 	<iostream>
 	<vector>
 	<algorithm>
