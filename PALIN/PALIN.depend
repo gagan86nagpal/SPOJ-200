@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511771264 source:d:\spoj 200\palin\main.cpp
+	<iostream>
+	<vector>
+
