@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511928879 source:d:\spoj 200\stpar\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+
