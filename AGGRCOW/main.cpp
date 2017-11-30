@@ -35,16 +35,19 @@ int main()
         sort(v.begin(),v.end());
         int l =0;
         int r=v[v.size()-1];
+        int m;
         while(l<r)
         {
-            int m;
             m = (l +r)/2;
             if(isPossible(m,c))
                 l=m+1;
             else
                 r=m;
+
+         //   cout<<l<<"-"<<r<<"\n";
         }
-        cout<<l-1<<"\n";
+        m=(l+r)/2;
+        cout<<m-1<<"\n";
     }
     return 0;
 }
