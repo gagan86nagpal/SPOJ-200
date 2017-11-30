@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512015247 source:d:\spoj 200\aggrcow\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
