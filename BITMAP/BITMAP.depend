@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512790047 source:d:\spoj 200\bitmap\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
