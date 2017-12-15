@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513364497 source:d:\spoj 200\nhay\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
