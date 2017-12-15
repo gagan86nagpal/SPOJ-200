@@ -8,6 +8,7 @@ vector<pair<int,int> > black;
 int ans[185][185];
 int main()
 {
+    ios_base::sync_with_stdio(false);
     int t;
     cin>>t;
     while(t--)
