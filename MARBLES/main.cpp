@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-long long C(long long n,long long k)
+unsigned long long C(long long n,long long k)
 {
     int i;
     k  = min(n-k,k);
