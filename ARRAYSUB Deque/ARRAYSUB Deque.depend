@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513406200 source:d:\spoj 200\arraysub deque\main.cpp
+	<iostream>
+	<deque>
+
