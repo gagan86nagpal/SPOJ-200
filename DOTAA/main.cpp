@@ -22,7 +22,7 @@ int main()
         while(m--)
         {
             int x =*s.rbegin();
-            s.erase(--s.end());
+            s.erase(prev(s.end()) );  // can also use s.erase(--(s.end()) );
             if(x<=d)
             {
                 flag= false;
