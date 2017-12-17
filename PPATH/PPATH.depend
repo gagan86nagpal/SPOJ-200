@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513500794 source:d:\spoj 200\ppath\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<utility>
+	<vector>
+	<stdlib.h>
+
