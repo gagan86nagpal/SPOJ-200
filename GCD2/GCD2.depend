@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513479198 source:d:\spoj 200\gcd2\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<algorithm>
+
