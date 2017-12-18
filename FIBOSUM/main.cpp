@@ -46,7 +46,15 @@ int main()
     {
         int l,r;
         cin>>l>>r;
-        long long ans = (fib(r+2) - fib(l+1) + mod)%mod;
+      //  long long ans = (fib(r+2) - fib(l+1) + mod)%mod;  // Easy way
+
+      int d = r-l+1;
+      long long fd = fib(d);
+      long long fd1 = fib(d-1);
+      long long fn = fib(l);
+      long long fn1 = fib(l+1);
+      long long ans = (fd*fn)%mod + ((fd +fd1 -1 + mod)*fn1 )%mod;  //
+      ans%=mod;
         cout<<ans<<"\n";
     }
     return 0;
