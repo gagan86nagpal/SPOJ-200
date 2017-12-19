@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513708539 source:d:\ada\kgss\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
