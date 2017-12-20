@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513783954 source:d:\spoj 200\labyr1\main.cpp
+	<iostream>
+	<utility>
+
