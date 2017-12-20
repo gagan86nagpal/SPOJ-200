@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513766924 source:d:\spoj 200\shpath\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<set>
+
