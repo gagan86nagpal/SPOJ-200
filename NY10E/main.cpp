@@ -8,7 +8,7 @@ long long C(long long n,long long r)
     long long ans=1ll;
     for(i=1;i<=r;i++)
     {
-        ans*= n-i+1;
+        ans*= n-i+1 ;
         ans/=i;
     }
     return ans;
