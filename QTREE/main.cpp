@@ -205,8 +205,8 @@ int solve(int a,int b) // this is somewhat complex
 int main()
 {
     ios_base::sync_with_stdio(false);
-    //cin.tie(0);
-    //cout.tie(0);
+    cin.tie(0);
+    cout.tie(0);
     string s;
     int t;
     cin>>t;
