@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513914305 source:d:\spoj 200\lengfact\main.cpp
+	<iostream>
+	<math.h>
+
