@@ -15,10 +15,7 @@ int main()
     {
         long long a,b,x;
         cin>>a>>b;
-        if(a*b<0)  // oposite
-           x = abs(a) + abs(b);
-        else
-            x = abs( abs(a) - abs(b));
+        x=abs(a-b);
          cout<<x/gcd(abs(a),abs(b))<<"\n";
     }
     return 0;
