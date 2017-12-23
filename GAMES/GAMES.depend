@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513999009 source:d:\spoj 200\games\main.cpp
+	<iostream>
+	<math.h>
+
