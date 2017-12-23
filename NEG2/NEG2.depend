@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514005753 source:d:\spoj 200\neg2\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+	<cmath>
+	<algorithm>
+
