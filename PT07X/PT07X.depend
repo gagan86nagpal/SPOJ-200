@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514090532 source:d:\spoj 200\pt07x\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
