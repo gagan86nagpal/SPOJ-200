@@ -27,7 +27,8 @@ int solve(int s,int p)
             ans1+=solve(cc,c);  // taking root and grand childs
         }
     }
-
+    // ans1+nc denotes , we can leave root and take children and solve them
+    // 1+ans2 is taking root , and then taking grand childs
     return dp[s]=min(ans1+nc,1+ans2);
 }
 int main()
@@ -48,5 +49,8 @@ int main()
     int root=1;
    int ans = solve(root,-1);
    cout<<ans<<"\n";
+   for(i=1;i<=n;i++)
+    cout<<dp[i]<<" ";
+
     return 0;
 }
