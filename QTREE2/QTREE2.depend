@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514346966 source:d:\spoj 200\qtree2\main.cpp
+	<iostream>
+	<utility>
+	<vector>
+
