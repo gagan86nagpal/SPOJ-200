@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514482766 source:d:\spoj 200\words1\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
