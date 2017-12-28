@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514444441 source:d:\spoj 200\babtwr\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
