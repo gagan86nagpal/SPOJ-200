@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514534403 source:d:\spoj 200\catm\main.cpp
+	<iostream>
+	<cmath>
+	<queue>
+
