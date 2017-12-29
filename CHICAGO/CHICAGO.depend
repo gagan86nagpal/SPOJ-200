@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514529801 source:d:\spoj 200\chicago\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<set>
+
