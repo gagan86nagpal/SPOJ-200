@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514619453 source:d:\spoj 200\dquery\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
