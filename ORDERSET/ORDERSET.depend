@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514608527 source:d:\spoj 200\orderset\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+
