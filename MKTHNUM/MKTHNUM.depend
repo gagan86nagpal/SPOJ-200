@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514602380 source:d:\spoj 200\mkthnum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
